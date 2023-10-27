@@ -1,11 +1,11 @@
-DayZ Fesh Spawn Loadout Files For Console and PC Instructions & Terms Of Use
+DayZ Fresh Spawn Loadout Files For Console and PC Instructions & Terms Of Use
 
 VANILLA SPAWN LOADOUT ( vanilla_loadout.json ) WAS CREATED BY BOHEMIA INTERACTIVE.	
 
 Vanilla (default) and Vanillaplus (more items, better clothes) so that you can either revert to the default loadouts on your community
 server or have a slightly enhanced loadout for fresh spawns that will make it easier for new players to survive and learn the game.
 
-Limited Testing on PC Chernarus Local Experimental Server DAYZ Version 1.23 Aug 23.
+Limited Testing on PC Chernarus Local Experimental Server DAYZ Version 1.23 OCT 23.
 
 Vanillaplus Json Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
@@ -79,6 +79,6 @@ If you already are calling custom gear spawn jsons to spawn, or wanted to have a
 	
 Save your changes & upload if you need to.
 
-Restart your server and new player fresh spawns will have the near gear.
+Restart your server and new player fresh spawns will have the new gear.
 
 Thanks, Rob.
